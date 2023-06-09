@@ -7,5 +7,5 @@ Learn how to master Power BI—one of the world’s most popular business intell
 - Power Query and many others.
 
 ## Repository
-This repository <font color="red">does not include the course itself!</font>. Only files related to exercises and projects that I created.
+This repository <font color="red">does not include the course itself!</font> Only files related to exercises and projects that I created.
 
