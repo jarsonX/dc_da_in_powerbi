@@ -24,5 +24,5 @@ The whole track include the following courses/projects:
 - Deploying and Maintaining Assets
 
 ## Notes
-This repository <font color="red">does not include the course itself!</font> Only files related to exercises and projects that I created.
+This repository does not include the course itself! Only files related to exercises and projects that I created.
 
