@@ -15,7 +15,6 @@ The whole track includes the following courses/projects:
 - Case Study: HR Analytics
 - DAX Functions
 - Intermediate DAX
-- User-Oriented Design
 - Exploratory Data Analysis
 - Trend Analysis
 - Reports
