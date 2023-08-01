@@ -1,0 +1,1 @@
+Online-based course, all exercises were performed on a virtual machine.
